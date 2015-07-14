@@ -56,3 +56,45 @@ Good for _Fusarium_ spore production in liquid culture.
 6.  Autoclave 20 minutes on the fluid setting.
 7.  Allow broth to cool overnight before inoculating.
 
+### Malt Extract Agar + chloramphenicol
+for general isolation of fungi (standard medium for isolating fungi from leaves)
+
+| Ingredients |
+|:----------------:|
+| 20g Malt Extract |
+| 15 g Agar |
+| 0.200 g chloramphenicol |
+| 1 L deionized water Mix and heat to dissolve all ingredients |
+
+1. Add all ingredients into water and heat gently to dissolve.
+2. Autoclave. Chloramphenicol can be autoclaved.
+3. Cool and pour plates.
+
+### 10% Trypticase Soy Agar + cycloheximide
+for general isolation of bacteria (standard medium for bacterial isolation from plants)
+3g Trypticase Soy Broth
+15 g Agar
+1 L deionized water Mix and heat to dissolve all ingredients.
+Autoclave, and cool to pouring temperature. Before pouring add:
+Cycloheximide (200 mg/L) as
+10mL of a 1g/50mL 90% EtOH stock solution.
+
+### Malt Extract Agar + Benlate + chloramphenicol
+For isolation of wood decay fungi
+20g Malt Extract
+15 g Agar
+0.200 g chloramphenicol
+1 L deionized water Mix and heat to dissolve all ingredients.
+Autoclave, and cool to pouring temperature. After autoclaving, just before pouring add:
+Benlate (10 mg/L) as 1mL of a 10 mg/mL stock suspension
+(0.200g Benlate in 20mL 70% EtOH stock solution)
+
+### V8 Juice Agar
+Often used for sporulation of fungi and oomycetes
+1 can (163 ml) V8 Juice
+1.8g CaCO3
+15g Agar
+make up to 905 ml with deionized water (742ml di H20)
+Mix and heat to dissolve all ingredients;
+Autoclave, cool and pour
+

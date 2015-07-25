@@ -1,2 +1,2 @@
 # protocols
-lab protocols
+lab protocols and other emphemera

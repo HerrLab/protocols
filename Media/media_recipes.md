@@ -1,8 +1,12 @@
-# media recipes used in the laboratory
+# Media recipes used in the laboratory
 
 ### Carnation Leaf Agar (CLA)
 
 Notes for _Fusarium_: Used for getting good macroconidia formation for identification.
+
+| Ingredient | Amount |
+|:----------------:|:-----------------:|
+| | |
 
 1.  Collect carnation leaves and cut into 3-5 mm2 pieces.
 2.  Microwave ~30 seconds to sterilize and dry.
@@ -17,6 +21,10 @@ c.  Cool in a water bath to ~50°C.
 
 Good for _Fusarium graminearum_ and allies. Used for isolation and for inoculating corn and MB broth.  Lactic acid inhibits bacterial growth.
 
+| Ingredient | Amount |
+|:----------------:|:-----------------:|
+| | |
+
 1.  Add 39 g PDA (Fisher #DF0013176) to 1 L distilled H2O.
 2.  Autoclave for 20 minutes on the fluid setting.
 3.  Cool in a water bath to ~50°C.
@@ -27,9 +35,13 @@ Good for _Fusarium graminearum_ and allies. Used for isolation and for inoculati
 
 Used for _Fusarium_ spore production on culture plates.  Protocol developed by the lab of Dr. Ruth Dill-Macky.
 
+| Ingredient | Amount |
+|:----------------:|:-----------------:|
+| | |
+
 1.  Boil water in 2 L beaker.
-2.  Place beans in water and boil for 23 min.
-NOTE:  Time from when the water has returned to the boil.  The beans will have started to crack open by 23 min (this may happen as early as 15 min).  Good spore production is dependent on a cooking time of 23 minutes.
+2.  Place beans in water and boil for 25 min.
+NOTE:  Time from when the water has returned to the boil.  The beans will have started to crack open by 25 min (this may happen as early as 15 min).  Good spore production is dependent on a cooking time of 25 minutes.
 3.  Remove bean broth from heat.
 4.  Mark 1 liter volume on the side of a 2-liter Erlenmeyer flask.
 5.  Place a large Buchner funnel on the flask.
@@ -48,6 +60,10 @@ NOTE:  The residue is difficult to remove once dried onto surfaces!
 
 Good for _Fusarium_ spore production in liquid culture.
 
+| Ingredient | Amount |
+|:----------------:|:-----------------:|
+| | |
+
 1.  Bring 1 L distilled H2O to a boil.
 2.  Remove from heat and allow to sit 30 seconds.
 3.  Add 40 g of mung beans and allow to steep 10 minutes.
@@ -57,21 +73,28 @@ Good for _Fusarium_ spore production in liquid culture.
 7.  Allow broth to cool overnight before inoculating.
 
 ### Malt Extract Agar + chloramphenicol
-for general isolation of fungi (standard medium for isolating fungi from leaves)
 
-| Ingredients |
-|:----------------:|
-| 20g Malt Extract |
-| 15 g Agar |
-| 0.200 g chloramphenicol |
-| 1 L deionized water Mix and heat to dissolve all ingredients |
+For general isolation of fungi (standard medium for isolating fungi from leaves)
 
-1. Add all ingredients into water and heat gently to dissolve.
+| Ingredient | Amount |
+|:----------------:|:-----------------:|
+| Malt Extract | 20 grams |
+| Agar | 15 grams |
+| chloramphenicol | 0.200 grams |
+| deionized water | 1 Liter |
+
+1. Add all ingredients into water, mix, and heat gently to dissolve.
 2. Autoclave. Chloramphenicol can be autoclaved.
 3. Cool and pour plates.
 
 ### 10% Trypticase Soy Agar + cycloheximide
+
 for general isolation of bacteria (standard medium for bacterial isolation from plants)
+
+| Ingredient | Amount |
+|:----------------:|:-----------------:|
+| | |
+
 3g Trypticase Soy Broth
 15 g Agar
 1 L deionized water Mix and heat to dissolve all ingredients.
@@ -79,8 +102,28 @@ Autoclave, and cool to pouring temperature. Before pouring add:
 Cycloheximide (200 mg/L) as
 10mL of a 1g/50mL 90% EtOH stock solution.
 
+### V8 Juice Agar
+
+Used for sporulation of some fungi and oomycetes
+
+| Ingredient | Amount |
+|:----------------:|:-----------------:|
+| V8 Juice | 163 ml (1 can?) |
+| CaCO3 | 1.8 grams |
+| Agar | 15 g |
+| deionized water | add up to 905 ml (should be 742ml diH20) |
+
+1. Mix and heat to dissolve all ingredients;
+2. Autoclave, cool, and pour
+
 ### Malt Extract Agar + Benlate + chloramphenicol
+
 For isolation of wood decay fungi
+
+| Ingredient | Amount |
+|:----------------:|:-----------------:|
+| | |
+
 20g Malt Extract
 15 g Agar
 0.200 g chloramphenicol
@@ -88,13 +131,3 @@ For isolation of wood decay fungi
 Autoclave, and cool to pouring temperature. After autoclaving, just before pouring add:
 Benlate (10 mg/L) as 1mL of a 10 mg/mL stock suspension
 (0.200g Benlate in 20mL 70% EtOH stock solution)
-
-### V8 Juice Agar
-Often used for sporulation of fungi and oomycetes
-1 can (163 ml) V8 Juice
-1.8g CaCO3
-15g Agar
-make up to 905 ml with deionized water (742ml di H20)
-Mix and heat to dissolve all ingredients;
-Autoclave, cool and pour
-

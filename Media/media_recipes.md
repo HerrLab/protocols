@@ -6,7 +6,8 @@ Notes for _Fusarium_: Used for getting good macroconidia formation for identific
 
 | Ingredient | Amount |
 |:----------------:|:-----------------:|
-| | |
+| carnation leaves | |
+| Agar | 20 grams |
 
 1.  Collect carnation leaves and cut into 3-5 mm2 pieces.
 2.  Microwave ~30 seconds to sterilize and dry.

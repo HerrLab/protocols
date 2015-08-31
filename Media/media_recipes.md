@@ -6,7 +6,7 @@ Notes for _Fusarium_: Used for getting good macroconidia formation for identific
 
 | Ingredient | Amount |
 |:----------------:|:-----------------:|
-| carnation leaves | |
+| Carnation Leaves | |
 | Agar | 20 grams |
 
 1.  Collect carnation leaves and cut into 3-5 mm2 pieces.
@@ -24,13 +24,17 @@ Good for _Fusarium graminearum_ and allies. Used for isolation and for inoculati
 
 | Ingredient | Amount |
 |:----------------:|:-----------------:|
-| | |
+| Potato Dextrose Agar | 39 grams |
+| 85% Lactic Acid | 1 mL |
+| Distilled H20 | |
 
-1.  Add 39 g PDA (Fisher #DF0013176) to 1 L distilled H2O.
+1.  Add 39 g PDA to 1 L distilled H2O.
 2.  Autoclave for 20 minutes on the fluid setting.
-3.  Cool in a water bath to ~50°C.
+3.  Cool in a water bath to approximately 50°C.
 4.  Add 1 mL 85% Lactic acid and swirl to mix.
-5.  Pour ~30 mL per plate.
+5.  Pour approximately 30 mL per plate.
+
+PDA odered before was Fisher #DF0013176
 
 ### Mung Bean Agar (MBA)
 

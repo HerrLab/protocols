@@ -1,5 +1,18 @@
 # Media recipes used in the laboratory
 
+### Hillman Broth Media
+
+Note: Eddie's Media for growing fungi in liquid culture
+
+| Ingredient | Amount |
+|:----------------:|:-----------------:|
+| yeast extract | 2% |
+| dextrose | 5% |
+| sucrose | 10% |
+| malt | 4% |
+| tap water | 1 Liter |
+
+
 ### Carnation Leaf Agar (CLA)
 
 Notes for _Fusarium_: Used for getting good macroconidia formation for identification.
